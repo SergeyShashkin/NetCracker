@@ -1,0 +1,65 @@
+.cont{
+    padding-top: 100px;
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.btn{
+    padding: 5px 10px;
+    background: #4caf50;
+    color: #fff;
+    cursor: pointer;
+}
+.btn:hover{
+    background: #8bc34a;
+}
+.sub-btn{
+    float: right;
+}
+
+form{
+    width: 239px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.btns{
+    width: 293px;
+    margin-left: auto;
+    margin-right: auto;
+}
+input{
+    margin-bottom: 5px;
+}
+
+.message{
+    color: red;
+}
+
+.active{
+    color: white;
+    background: grey;
+}
+
+.active a{
+    color: white;
+}
+
+.cont{
+    width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.taskTable{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+textarea{
+    width: 167px;
+}
+
